@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseRealtime_1</string>
+    <string-array name="jeniskelamin">
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>
